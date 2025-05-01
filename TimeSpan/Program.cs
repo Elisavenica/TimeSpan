@@ -20,16 +20,5 @@ class Program
         Console.WriteLine(t6);
 
 
-
-
-
-
-
-
-
-
-
-
-
     }
 }
